@@ -3,7 +3,6 @@
 * 🔭 I am currently pursuing my Engineering Degree.
 * 👩🏻‍🎓 Bachelors in Computer Science.
 * 🎓 Dr Mahalingam College of Engineering and Technology, Pollachi.
-* 🌍 I'm based in Coimbatore
 * ✉️ You can contact me at [agnikavya20@gmail.com](mailto:agnikavya20@gmail.com)
 * 🧠 I'm learning Full Stack Web Development
 * 🤝 I'm open to collaborating on Web Development Projects.
