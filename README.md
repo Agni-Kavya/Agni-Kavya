@@ -59,9 +59,19 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   <a href="https://github.com/Agni-Kavya/Todo-BookApplication" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Todo-BookApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  <div align="left" style="width:45%;">
+    <p><strong>Todo-BookApplication</strong><br/>This repository contains a Todo Book application...</p>
+  </div>
+</div>
+<br /><br />
+
+<div width="100%" align="center">
   <a href="https://github.com/Agni-Kavya/Socialmedia-MERN" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Socialmedia-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  <div align="right" style="width:45%;">
+    <p><strong>Socialmedia-MERN</strong><br/>This repository is a Social Media application built with the MERN stack...</p>
+  </div>
 </div>
 <br /><br />
 
@@ -69,18 +79,31 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   <a href="https://github.com/Agni-Kavya/JavaScript-TodoList" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=JavaScript-TodoList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/Agni-Kavya/Hand-Gesture-Controller" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Hand-Gesture-Controller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+  <div align="left" style="width:45%;">
+    <p><strong>JavaScript-TodoList</strong><br/>This repository features a simple Todo List application implemented in JavaScript...</p>
+  </div>
 </div>
 <br /><br />
 
 <div width="100%" align="center">
-  <a href="https://github.com/Agni-Kavya/ReduxToolkit-MovieApplication" align="center">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=ReduxToolkit-MovieApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/Agni-Kavya/Hand-Gesture-Controller" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Hand-Gesture-Controller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  <div align="right" style="width:45%;">
+    <p><strong>Hand-Gesture-Controller</strong><br/>This repository features a Hand Gesture Controller...</p>
+  </div>
 </div>
-<br/><br/><br/><br/>
+<br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/Agni-Kavya/Todolist-MERN" align="center">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Todolist-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <div align="center" style="width:45%;">
+    <p><strong>Todolist-MERN</strong><br/>This repository is a Todo List application built with the MERN stack...</p>
+  </div>
+</div>
+
 
 ### 💬Random Developer Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
