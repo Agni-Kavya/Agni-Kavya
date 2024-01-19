@@ -84,16 +84,6 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=nord&column=7)
 ### Random Developer Quote
-> <span id="dev-quote"></span>
-
-<script>
-// List of developer quotes
-const developerQuotes = [
-  "The best error message is the one that never shows up. - Thomas Fuchs",
-  "The best thing about a boolean is even if you are wrong, you are only off by a bit. - Anonymous",
-
-];
-
-const randomQuote = developerQuotes[Math.floor(Math.random() * developerQuotes.length)];
-document.getElementById('dev-quote').innerHTML = randomQuote;
-</script>
+> "The best error message is the one that never shows up." - Thomas Fuchs
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=onedark&column=7)
