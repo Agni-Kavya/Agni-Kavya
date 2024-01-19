@@ -44,7 +44,6 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <a href="http://www.github.com/Agni-Kavya">
   <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=Agni-Kavya&theme=react-dark&hide_border=true" alt="GitHub Commits Graph" />
 </a>
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Agni-Kavya/Agni-Kavya?color=0891b2&label=Commit%20Activity&style=for-the-badge)
 
 
 <a href="https://github.com/Agni-Kavya" align="left">
