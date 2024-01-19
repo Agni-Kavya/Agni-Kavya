@@ -8,7 +8,7 @@
 * 🤝 I'm open to collaborating on Web Development Projects.
 * ⚡ To Shine you must Burn like Fire.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-###  🌐Socials
+##  🌐Socials
 <p align="left">
   <a href="https://www.github.com/Agni-Kavya" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### 📈GitHub Stats
+## 📈GitHub Stats
 
 <a href="http://www.github.com/Agni-Kavya">
   <img src="https://github-readme-stats.vercel.app/api?username=Agni-Kavya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agni-Kavya's GitHub stats" />
@@ -46,16 +46,16 @@
 </a>
 
 <br /><br />
-###  🏆GitHub Trophies 
+##  🏆GitHub Trophies 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=onedark&column=7)
 
 <br/><br/>
 
-### 💬Random Developer Quote
+## 💬Random Developer Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🚀Top Repositories
+## 🚀Top Repositories
 
 <div width="100%" align="center">
   <a href="https://github.com/Agni-Kavya/Todo-BookApplication" align="left">
