@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Agni Kavya
-## WEB DEVELOPER
+## FULL STACK DEVELOPER
 
 I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engineering and Technology, Pollachi.
 
