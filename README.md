@@ -87,4 +87,4 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <br/><br/><br/><br/>
 
 ### Random Developer Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
