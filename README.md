@@ -34,6 +34,8 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 </p>
 
 ### Badges
+<br /><br /><br /><br /><br /><br />
+
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/Agni-Kavya">
   <img src="https://github-readme-stats.vercel.app/api?username=Agni-Kavya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agni-Kavya's GitHub stats" />
@@ -42,11 +44,11 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agni-Kavya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-
-
 <a href="https://github.com/Agni-Kavya" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agni-Kavya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
+
+<br /><br />
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
@@ -57,15 +59,22 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Socialmedia-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center">
+<br /><br />
+
+<div width="100%" align="center">
   <a href="https://github.com/Agni-Kavya/JavaScript-TodoList" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=JavaScript-TodoList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/Agni-Kavya/Hand-Gesture-Controller" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=Hand-Gesture-Controller&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+</div>
+<br /><br />
+
+<div width="100%" align="center">
   <a href="https://github.com/Agni-Kavya/ReduxToolkit-MovieApplication" align="center">
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Agni-Kavya&repo=ReduxToolkit-MovieApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
