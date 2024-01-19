@@ -83,7 +83,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### GitHub Trophies 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=nord&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=onedark&column=7)
 
 ### Random Developer Quote
 > "The best error message is the one that never shows up." - Thomas Fuchs
