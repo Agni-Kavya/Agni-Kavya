@@ -44,8 +44,9 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <a href="http://www.github.com/Agni-Kavya">
   <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=Agni-Kavya&theme=react-dark&hide_border=true" alt="GitHub Commits Graph" />
 </a>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Agni-Kavya/Agni-Kavya?color=0891b2&label=Commit%20Activity&style=for-the-badge)
 
-</a>
+
 <a href="https://github.com/Agni-Kavya" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agni-Kavya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
