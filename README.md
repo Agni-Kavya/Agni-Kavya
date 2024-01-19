@@ -9,7 +9,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 * 🤝 I'm open to collaborating on Web Development Projects.
 * ⚡ To Shine you must Burn like Fire.
 
-### Tech Stack
+###  💻Tech Stack
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,7 +23,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Socials
+###  🌐Socials
 <p align="left">
   <a href="https://www.github.com/Agni-Kavya" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -33,12 +33,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   </a>
 </p>
 
-### Badges
-<br /><br />
-
----
-
-<b>My GitHub Stats</b>
+### 📈GitHub Stats
 
 <a href="http://www.github.com/Agni-Kavya">
   <img src="https://github-readme-stats.vercel.app/api?username=Agni-Kavya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agni-Kavya's GitHub stats" />
@@ -53,12 +48,12 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 </a>
 
 <br /><br />
-### GitHub Trophies 
+###  🏆GitHub Trophies 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Agni-Kavya&theme=onedark&column=7)
 
 <br/><br/>
 
-### Top Repositories
+### 🚀Top Repositories
 
 <div width="100%" align="center">
   <a href="https://github.com/Agni-Kavya/Todo-BookApplication" align="left">
@@ -87,5 +82,5 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 </div>
 <br/><br/><br/><br/>
 
-### Random Developer Quote
+### 💬Random Developer Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
