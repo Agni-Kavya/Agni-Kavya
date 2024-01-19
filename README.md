@@ -87,8 +87,8 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Random Developer Quote
-<div style="background: url('https://your-image-url.com') center center / cover; padding: 20px; text-align: center; color: #fff;">
+<div style="background: url('https://your-background-image-url.com') center center / cover; padding: 20px; text-align: center; color: #fff; border-radius: 10px;">
   <img src="https://your-double-quote-image-url.com" alt="Double Quote Image" style="width: 30px; height: auto; margin-right: 10px;"/>
-  <blockquote style="font-size: 18px;">"The best error message is the one that never shows up." - Thomas Fuchs</blockquote>
+  <blockquote style="font-size: 18px; display: inline-block;">"The best error message is the one that never shows up." - Thomas Fuchs</blockquote>
 </div>
 
