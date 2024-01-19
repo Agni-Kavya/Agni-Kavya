@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Agni Kavya
 ## FULL STACK DEVELOPER
-
-I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engineering and Technology, Pollachi.
-
+* 🔭 I am currently pursuing my Engineering Degree.
+* 👩🏻‍🎓 Bachelors in Computer Science.
+* 🎓 Dr Mahalingam College of Engineering and Technology, Pollachi.
 * 🌍 I'm based in Coimbatore
 * ✉️ You can contact me at [agnikavya20@gmail.com](mailto:agnikavya20@gmail.com)
 * 🧠 I'm learning Full Stack Web Development
