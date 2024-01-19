@@ -9,7 +9,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 * 🤝 I'm open to collaborating on Web Development Projects.
 * ⚡ To Shine you must Burn like Fire.
 
-### Skills
+### Tech Stack
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -87,7 +87,4 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 <br/><br/><br/><br/>
 
 ### Random Developer Quote
-<div style="background: url('https://your-background-image-url.com') center center / cover; padding: 20px; text-align: center; color: #fff; border-radius: 10px;">
-  <img src="https://your-double-quote-image-url.com" alt="Double Quote Image" style="width: 30px; height: auto; margin-right: 10px;"/>
-  <blockquote style="font-size: 18px; display: inline-block;">"The best error message is the one that never shows up." - Thomas Fuchs</blockquote>
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
