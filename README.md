@@ -34,7 +34,7 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
 </p>
 
 ### Badges
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/Agni-Kavya">
