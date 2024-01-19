@@ -42,7 +42,9 @@ I am currently pursuing my Engineering Degree at Dr. Mahalingam College of Engin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agni-Kavya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <a href="http://www.github.com/Agni-Kavya">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Agni-Kavya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=Agni-Kavya&theme=react-dark&hide_border=true" alt="GitHub Commits Graph" />
+</a>
+
 </a>
 <a href="https://github.com/Agni-Kavya" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agni-Kavya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
